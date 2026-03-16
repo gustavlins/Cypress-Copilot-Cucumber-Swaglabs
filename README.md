@@ -12,8 +12,6 @@ Projeto de automação de testes E2E com **Cypress** e **Cucumber (Gherkin)**, v
 
 ![Demo dos testes](https://via.placeholder.com/1200x600?text=Adicione+seu+GIF+de+execucao+aqui)
 
-- 🎥 Vídeo/GIF da execução: `LINK_DO_SEU_GIF_OU_VIDEO`
-- 📦 Pipeline (opcional): `LINK_DO_GITHUB_ACTIONS`
 
 ## Objetivo
 
